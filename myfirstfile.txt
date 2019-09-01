@@ -3,3 +3,4 @@ adding a line from local
 adding a line on remote
 fixing merge conflict
 Hello there, this is Melvin messing with your file
+I can see your addition, Melvin, please reply here after your pull request come through.
